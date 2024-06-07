@@ -1,7 +1,7 @@
 <h1 align="center">Ejercicio Appol</h1><br>
 
 
-<h2 align="center">certificado PowerBI de IBM.</h2>
+<h2 align="center">Certificado PowerBI impartido por IBM.</h2>
 <br>
 <br>
 <p>Ejercicio simple de analisis de datos, el mismo tiene como fin conocer los aspectos basicos de la herrameienta de power BI y empezar a trabajar con DAX. </p>
