@@ -15,6 +15,6 @@
   <dt>Móvil Guatemala - en caso de no estar en España, me puedes llamar a este número:</dt>
   <dd><a href="tel:+50251414886">+502 51 41 48 86</a></dd>
 <dt>LinkedIn:</dt>
-  <dd><a href="https://www.linkedin.com/in/carlos-f-mejia/" target="blank"></dd>
+  <dd><a href="https://www.linkedin.com/in/carlos-f-mejia/" target="blank">carlos-f-mejia</a></dd>
 </dl>
  <br>
