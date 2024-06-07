@@ -6,6 +6,8 @@
 <br>
 <p>Ejercicio simple de analisis de datos, el mismo tiene como fin conocer los aspectos basicos de la herrameienta de power BI y empezar a trabajar con DAX. </p>
 
+<iframe title="ejercicio-powerbi-appol" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODZjODI1ODgtNmMwZi00NjVhLTlmYjYtNTIwMzA4MzgxNmU1IiwidCI6IjEzYTViODliLTliYTUtNGVlNi05NzU0LWU2OWFmYTVlMmQzYiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+
 <h3>📫 Como contactarme:</h3>
 <dl>
   <dt>Mi correo:</dt>
